@@ -2,7 +2,9 @@
     font-family: 'Helvetica';
 }
 
-.landing-section {}
+.landing-section {
+    background-image: url("../images/the-flatiron-building.png");
+}
 
 .footer {
     font-weight: bold;
