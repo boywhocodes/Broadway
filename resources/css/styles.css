@@ -1,11 +1,17 @@
 * {
     font-family: 'Helvetica';
     text-align: center;
+}
+
+.section-titles {
+    background-image: url("../images/the-flatiron-building.png");
     color: white;
 }
 
-.flatiron-background {
-    background-image: url("../images/the-flatiron-building.png");
+.header-link {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
 }
 
 .footer {
