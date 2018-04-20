@@ -1,8 +1,10 @@
 * {
     font-family: 'Helvetica';
+    text-align: center;
+    color: white;
 }
 
-.landing-section {
+.flatiron-background {
     background-image: url("../images/the-flatiron-building.png");
 }
 
